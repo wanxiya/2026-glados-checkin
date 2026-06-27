@@ -1,4 +1,4 @@
-# 🎁 每天+20积分，5分钟搞定 GLaDOS 自动签到
+。# 🎁 每天+20积分，5分钟搞定 GLaDOS 自动签到
 
 <div align="center">
 
